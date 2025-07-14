@@ -127,26 +127,6 @@ streamlit run main.py
 
 ---
 
-🤝 贡献指南
-------------
-
-欢迎提交 **Issue** 和 **Pull Request**！
-
-1. Fork 仓库
-2. 创建功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送分支 (`git push origin feature/AmazingFeature`)
-5. 创建 Pull Request
-
----
-
-📄 许可证
-----------
-
-本项目基于 **MIT许可证** 开源，详见 [LICENSE](LICENSE)。
-
----
-
 🙏 致谢
 -------
 
